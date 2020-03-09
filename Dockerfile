@@ -1,4 +1,4 @@
-FROM centos
+FROM centos:7
 LABEL maintainer=sidler-mozilla \
       email=sidler@mozilla.com
 
